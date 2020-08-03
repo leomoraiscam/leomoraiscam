@@ -16,6 +16,7 @@
   - Girl's dad.
   - Play games. 
   - Watch series.
+  - I like cooking.
   - Do Yoga.
   - I have a dog. 
   

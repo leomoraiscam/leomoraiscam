@@ -17,6 +17,6 @@
   - Play games. 
   - Watch series.
   - Do Yoga.
-  - I have a dog 🐶. 
+  - I have a dog. 
   
 ---

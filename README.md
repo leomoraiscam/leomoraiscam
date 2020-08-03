@@ -11,4 +11,12 @@
 - :man_technologist: **Fullstack** web developer. **Front-end** passionate.
 - 💻  My focus: React.js, React Native, Node.js, Javascript, TypeScript and **more**.
 - 🤔 learning English
+
+- ⚡ About me: 
+  - Girl's dad.
+  - Play games. 
+  - Watch series.
+  - Do Yoga.
+  - I have a dog 🐶. 
+  
 ---

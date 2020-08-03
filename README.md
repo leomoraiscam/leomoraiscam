@@ -27,6 +27,8 @@
 - 🤔 learning English
 
 - ⚡ About me: 
+  - Girs dad.
+  - Married.
   - Play games. 
   - Watch series.
   - I like cooking.

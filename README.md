@@ -10,4 +10,5 @@
 
 - :man_technologist: **Fullstack** web developer. **Front-end** passionate.
 - 💻 React.js, React Native, Node.js, Javascript, TypeScript and **more**.
+- 🤔 I'm looking for help to improve my English
 ---

@@ -27,7 +27,6 @@
 - 🤔 learning English
 
 - ⚡ About me: 
-  - Girl's dad.
   - Play games. 
   - Watch series.
   - I like cooking.

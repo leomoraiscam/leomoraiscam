@@ -20,4 +20,8 @@
   - Do Yoga.
   - I have a dog. 
   
+  
+  ### 🔭&nbsp; Goals for 2020 
+- Improve my [GraphQL](https://graphql.org/) Knowledge 
+- Improve my [Gatsby](https://graphql.org/) Knowledge 
 ---

@@ -9,6 +9,6 @@
 ### Hi there! 👋
 
 - :man_technologist: **Fullstack** web developer. **Front-end** passionate.
-- 💻  I’m currently learning: React.js, React Native, Node.js, Javascript, TypeScript and **more**.
+- 💻  My focus: React.js, React Native, Node.js, Javascript, TypeScript and **more**.
 - 🤔 learning English
 ---
